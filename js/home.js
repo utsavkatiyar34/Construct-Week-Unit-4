@@ -17,18 +17,19 @@ console.log(carousel)
 carousel.innerHTML = slider();
 
 
+// let slideIndex = 0;
+// function plusSlides(){
+// slideIndex--;    
+// }
+// function plusSlides1(){
+//     slideIndex++;    
+//     }
 let slideIndex = 0;
-function plusSlides(){
-slideIndex--;    
-}
-function plusSlides1(){
-    slideIndex++;    
-    }
-// showSlides();
+showSlides();
 function showSlides() {
     let i;
-    let slides = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("dot");
+    let slides = document.getElementsByClassName("mySlides fade");
+    let dots = document.getElementsByClassName("home-dot");
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";  
     }
