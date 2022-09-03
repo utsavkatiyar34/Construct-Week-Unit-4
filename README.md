@@ -7,10 +7,10 @@ Tech-stack-
 * HTML
 * CSS
 * JavaScript
- 
-Area of responsibilities-
-* Created the homepage.
-* Created the skin page.
-* Gave the final touches to the project.
+
+Features-
+* Auth
+* Cart
+* Payment receipt
 
 <img src="https://utsav-katiyar.netlify.app/static/media/Nykaa.a4f32f2b.png"></img>
