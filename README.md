@@ -13,4 +13,4 @@ Features-
 * Cart
 * Payment receipt
 
-<img src="https://utsav-katiyar.netlify.app/static/media/Nykaa.a4f32f2b.png"></img>
+<img height="300px" width="500px" src="https://utsav-katiyar.netlify.app/static/media/Nykaa.a4f32f2b.png"></img>
